@@ -1,0 +1,20 @@
+{
+  "name": "slim-corp",
+  "owner": {
+    "name": "chinmaymk"
+  },
+  "metadata": {
+    "description": "Ship software through structured debate — autonomous multi-agent planning and execution",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "slim-corp",
+      "source": "./",
+      "description": "Full slim-corp skill pack: 15 roles for autonomous plan → debate → build → review → ship pipeline",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["multi-agent", "planning", "debate", "execution", "autonomous"]
+    }
+  ]
+}

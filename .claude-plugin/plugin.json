@@ -1,0 +1,20 @@
+{
+  "name": "slim-corp",
+  "version": "1.0.0",
+  "description": "Ship software through structured debate. Models a company org — CEO, CTO, CMO, Product, Engineering, UX, Security, QA, and Docs — to autonomously plan, debate, build, review, and ship code from a single directive.",
+  "author": {
+    "name": "slim-corp"
+  },
+  "repository": "https://github.com/chinmaymk/slim-corp",
+  "license": "MIT",
+  "keywords": [
+    "multi-agent",
+    "planning",
+    "debate",
+    "execution",
+    "code-review",
+    "autonomous",
+    "orchestration"
+  ],
+  "skills": "./skills/"
+}
